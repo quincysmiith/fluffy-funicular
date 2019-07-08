@@ -1,0 +1,5 @@
+# to ignore 
+
+.ipynb_checkpoints/
+.ipynb_checkpoints/.gitignore-checkpoint
+.ipynb_checkpoints/Pipfile-checkpoint
